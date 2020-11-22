@@ -1,1 +1,2 @@
 # firstone
+import numpy
